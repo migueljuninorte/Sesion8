@@ -5,9 +5,13 @@ h1{
 }
 form{
     font-family: sans-serif;
-    text-align: center;
-    padding-left: 30%
+    /*text-align: center;
+    padding-left: 30%*/
 
+}
+#formulario {
+    margin: auto;
+    display: inline-block
 }
 input#centrar{
     text-align: center;
